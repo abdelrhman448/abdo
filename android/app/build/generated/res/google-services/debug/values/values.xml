@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">218184775389-clm5r7pl6js4vudu165gsvmmq24mt4gu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://maosul-95482.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">218184775389</string>
+    <string name="google_api_key" translatable="false">AIzaSyBomj_bdMskpS1rPhnq2FC8F8hKjE4ayJA</string>
+    <string name="google_app_id" translatable="false">1:218184775389:android:397b0663871068e8670d34</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBomj_bdMskpS1rPhnq2FC8F8hKjE4ayJA</string>
+    <string name="google_storage_bucket" translatable="false">maosul-95482.appspot.com</string>
+    <string name="project_id" translatable="false">maosul-95482</string>
+</resources>

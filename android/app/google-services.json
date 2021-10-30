@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218184775389",
+    "firebase_url": "https://maosul-95482.firebaseio.com",
+    "project_id": "maosul-95482",
+    "storage_bucket": "maosul-95482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218184775389:android:397b0663871068e8670d34",
+        "android_client_info": {
+          "package_name": "com.maosul.maosul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218184775389-m4foku1594qiho436brvharp7d52hlqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maosul.maosul",
+            "certificate_hash": "295b55352069edcb8b6632a446c1579680df2e89"
+          }
+        },
+        {
+          "client_id": "218184775389-clm5r7pl6js4vudu165gsvmmq24mt4gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBomj_bdMskpS1rPhnq2FC8F8hKjE4ayJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218184775389-clm5r7pl6js4vudu165gsvmmq24mt4gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
